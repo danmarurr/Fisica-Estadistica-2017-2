@@ -9,3 +9,5 @@ Los problemas se calificarán de la siguiente forma. Si lo resuelve correctament
 
 Se darán "formularios" en cada examen. No se permitirá ningún dispositivo electrónico (calculadora, celular, compu, etc.), apuntes, libros u hojas. Será sólo necesario algo para escribir (lapiz, bolígrafo, pluma, etc) y algo para borrar ( goma, corrector, etc). Las hojas y formularios se les entregarán a los alumnos. 
 Tendrán exactamente 2h para contestar su examen. Ni un minuto más. 
+
+Si se sorprende a algún alumno copiando se le retirará el examen y tendrá automáticamente 0.
