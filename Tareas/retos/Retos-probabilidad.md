@@ -1,0 +1,1 @@
+1. Supon que vives en 2D. Un dado sería entonces un cuadrado y tendrías 4 posibilidades. Ahora supón que tu dado no tiene una distribución homogenea de masa, sino que su centro de masa está ligeramente cargado hacia una de las caras (por ejemplo la 1), una distancia $\Delta x$. ¿Cuál es la probabilidad de sacar $\{ 1\}$, $\{ 2\}$, $\{ 3\}$ y $\{ 4\}$ como función de $\Delta x$?  
