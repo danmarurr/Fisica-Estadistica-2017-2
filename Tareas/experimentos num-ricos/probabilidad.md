@@ -1,0 +1,1 @@
+1. Haz un código que calcule la probabilidad de ganar en pocker dado un conjunto de 5 cartas. El código tiene que calcular la probabilidad de tener cualquier combinación de cartas ganadora respecto a las 5 que tienes, considerando que ya no hay 52 cartas en la baraja, sino 47. 
