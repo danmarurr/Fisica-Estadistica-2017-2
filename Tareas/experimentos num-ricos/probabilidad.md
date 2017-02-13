@@ -1,1 +1,4 @@
 1. Haz un código que calcule la probabilidad de ganar en pocker dado un conjunto de 5 cartas. El código tiene que calcular la probabilidad de tener cualquier combinación de cartas ganadora respecto a las 5 que tienes, considerando que ya no hay 52 cartas en la baraja, sino 47. 
+2. El problema de las 3 puertas. El problema de chabelo que vimos en clase, resulta a primera vista un tanto increíble. Por lo tanto, es buena idea verificar numéricamente que la teoría es verdadera. Haz un código, donde siembre se elija aleatoriamente una de las 3 puertas. Que aleatoriamente el premio esté detrás de cualquiera de esas 3 puertas. Entonces, que calcule la probabilidad de llevarse el premio si: 
+  * No se cambia de puerta elegida en ningún momento. 
+  * Si al abrir una de las 2 puertas restantes (que sea la que no tiene premio), se cambie de puerta elegida a la que no está abierta. 
