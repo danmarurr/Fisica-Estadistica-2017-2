@@ -1,6 +1,6 @@
 5. Utiliza el teorema del binomio para probar que $\sum_{k=0]^{n] \binom{a}{b} p^k (1-p)^{n-k} = 1$ para cualquier $n$. 
 6. Se tiran 100 veces una moneda bien balanceada. 
-  * ¿Cuál es la probabilidad de que haya al menos 8 tiros seguidos de una sola cara de la moneda? 
+  * ¿Cuál es la probabilidad de que haya al menos una cadena de 8 tiros seguidos de una sola cara de la moneda? 
   * Si contamos el número de veces que sale una cadena de n repeticiones de una sola cara y llamamos a ese valor $N(n)$ ¿Qué valos de $N(n)$ maximisan la probabilidad de que salgan esas cadenas?
 7. Considera un juego de suerte en un casino, donde el jugador tira una moneda bien balanceada al aire. El juego se acaba cuando sale la primera águila, se cuentan el número de veces que salió sol y se le paga al jugador $2^n$ pesos, donde $n$ es el número de veces que salió sol. 
   * ¿Cuál es el valor esperado de este juego? 
