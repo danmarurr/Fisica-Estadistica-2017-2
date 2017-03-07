@@ -1,4 +1,4 @@
 # Fisica-Estadistica-2017-2
 Aviso
 
-# HAY EXAMEN el día 3 de marzo.
+Ya subí las respuestas del examen. Están en la sección "evaluación" como un notebook de Julia. 
