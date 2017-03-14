@@ -1,4 +1,3 @@
-# Fisica-Estadistica-2017-2
-Aviso
+# Primera clase online: https://youtu.be/8HSxBksHjBU
 
-Ya subí las respuestas del examen. Están en la sección "evaluación" como un notebook de Julia. 
+Muy proximamente subiré las siguientes partes. 
