@@ -3,7 +3,7 @@
 Estaba mal la ecuación de la energía relativista (ya está corregido) y peda calcular todo para el caso relativista, pero en realidad me interesa el caso ultra-relativista (que es el interesante y es más fácil). 
 
 
-Ya están disponibles los primeros videos de la parte del curso Online. Aún no son de muy buena calidad, pero espero ir mejorando. 
+## Ya están disponibles los primeros videos de la parte del curso Online.  
 
 1. Primera clase online: Distribución de Boltzmann https://youtu.be/8HSxBksHjBU
 - Experimento 1: Tensión superficial https://youtu.be/vtin9gmAcKg
