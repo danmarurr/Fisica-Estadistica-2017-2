@@ -1,4 +1,8 @@
 
+## Clase del Lunes: 
+
+1. Ejemplo de gas Ionizado:  https://youtu.be/C5KlNaLssCE
+
 ## Clases del viernes: 
 
 1. Explicación sobre movimiento Browniano: https://youtu.be/c_kLh8yoUw0
