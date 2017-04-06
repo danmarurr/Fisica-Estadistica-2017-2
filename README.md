@@ -9,7 +9,7 @@
 2. Experimento computacional: https://youtu.be/BE_jUD_ennA
 
 ## Errata en el problema 9 de la tarea 2.
-Estaba mal la ecuación de la energía relativista (ya está corregido) y peda calcular todo para el caso relativista, pero en realidad me interesa el caso ultra-relativista (que es el interesante y es más fácil). 
+Estaba mal la ecuación de la energía relativista (ya está corregido) y decía calcular todo para el caso relativista, pero en realidad me interesa el caso ultra-relativista (que es el interesante y es más fácil). 
 
 
 ## Ya están disponibles los primeros videos de la parte del curso Online.  
