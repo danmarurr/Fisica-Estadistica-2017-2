@@ -1,6 +1,9 @@
-# Ya esta la tarea 4. Diviertanse. 
 
-# El cuarto examen será el 29 de Junio. serán 5 preguntas, 4 teóricas, 1 problema. De las teóricas, 2 serán sobre transiciones de fase, 2 sobre fluctuaciones y movimiento Browniano.  
+# Por favor, responde esta encuesta: 
+
+## Ya esta la tarea 4. Diviertanse. 
+
+## El cuarto examen será el 29 de Junio. serán 5 preguntas, 4 teóricas, 1 problema. De las teóricas, 2 serán sobre transiciones de fase, 2 sobre fluctuaciones y movimiento Browniano.  
 
 ## Clase del Lunes: 
 
