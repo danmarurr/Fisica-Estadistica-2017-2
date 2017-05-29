@@ -1,5 +1,4 @@
-
-# Por favor, responde esta encuesta: https://goo.gl/forms/gJkjU4NrHgeMisci2
+# Ya está la tarea examen, en la carpeta de tareas. Tienen 24h para responderla. No olviden también contestar la encuesta: https://goo.gl/forms/gJkjU4NrHgeMisci2
 
 ## Ya esta la tarea 4. Diviertanse. 
 
