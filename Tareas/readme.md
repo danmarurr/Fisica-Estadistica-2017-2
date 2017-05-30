@@ -12,3 +12,4 @@
 (En todo el problema 5, hice \beta = 1, para simplificar las cosas). 
 
 Hagan un esfuerzo por hacer su examen antes de pedir más pistas. 
+
