@@ -1,3 +1,6 @@
+# Hubo algunas erratas en la tarea examen que sus compañeros me hicieron notar. Ya los corregí, chequen la nueva versión. 
+
+
 # Pistas para la tarea-examen:
 
 1. Prácticamente pueden seguir los mismos pasos que hice en clase. 
